@@ -1,5 +1,6 @@
 <h1 align="center"></h1>
 <h3 align="center">I poke the keyboard for fun</h3><br>
+<h3 style="text-align: center; color: blue;">Your Centered, Colorful Heading</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
