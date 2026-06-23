@@ -2,6 +2,12 @@
 <h3 align="center">C#/Python enjoyer</h3><br>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000¢er=true&vCenter=true&width=435&lines=C%23%2FPython+enjoyer;ai+is+coming!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/H3s1od?tab=repositories">
     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=H3s1od&theme=tokyonight&show_icons=true&rank_icon=github" />
     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=H3s1od&layout=compact&langs_count=8&card_width=320&theme=tokyonight&show_icons=true" />
