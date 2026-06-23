@@ -1,5 +1,5 @@
-![](https://img.shields.io/badge/I_poke_the_keyboard_for_fun-c93d7e?style=for-the-badge)
-<h1 align="center"></h1>
+
+<h1 align="center">![](https://img.shields.io/badge/I_poke_the_keyboard_for_fun-c93d7e?style=for-the-badge)</h1>
 <h3 align="center">I poke the keyboard for fun</h3>
 
 <p align="center">
