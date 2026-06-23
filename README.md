@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000¢er=true&vCenter=true&width=435&lines=AI+is+coming+for+your+ass!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000¢er=true&vCenter=true&width=435&color=FF2900&lines=Whatch+out+meatbag+AI+is+coming+for+your+ass!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
   <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
   <a href="https://unity.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" width="60" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/blender" alt="Blender" width="40" height="40"/></a>
+  <img src="https://cdn.simpleicons.org/blender/FF4C29" alt="Blender" width="40" height="40"/></a>
   <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
