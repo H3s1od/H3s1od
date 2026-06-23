@@ -1,10 +1,6 @@
 <h1 align="center">I poke the keyboard for fun</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&color=C93D7E&center=true&vCenter=true&width=400&lines=I+poke+the+keyboard+for+fun" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000¢er=true&vCenter=true&width=600&color=FF2900&lines=Whatch+out+meatbag+AI+is+coming+for+your+ass!" alt="Typing SVG" />
   </a>
