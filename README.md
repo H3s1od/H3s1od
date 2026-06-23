@@ -1,6 +1,9 @@
+<h1 align="center">I poke the keyboard for fun</h1>
+![](https://img.shields.io/badge/I_poke_the_keyboard_for_fun-c93d7e?style=for-the-badge)
 
-<h1 align="center">![](https://img.shields.io/badge/I_poke_the_keyboard_for_fun-c93d7e?style=for-the-badge)</h1>
-<h3 align="center">I poke the keyboard for fun</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&color=C93D7E&center=true&vCenter=true&width=400&lines=I+poke+the+keyboard+for+fun" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
