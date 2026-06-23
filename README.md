@@ -20,6 +20,7 @@
   <a href="https://unity.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" width="60" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank">
   <img src="https://cdn.simpleicons.org/blender" alt="Blender" width="40" height="40"/></a>
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
