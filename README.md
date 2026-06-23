@@ -1,5 +1,16 @@
-<h1 align="center"></h1>
-<h3 align="center">C#/Python enjoyer</h3><br>
+<h1 align="center">
+                  .----.
+      .---------. | == |
+      |.-"""""-.| |----|
+      ||       || | == |
+      ||       || |----|
+      |'-.....-'| |::::|
+      `"")---(""` |___.|
+     /:::::::::::\" _  "
+    /:::=======:::\`\`\
+    `"""""""""""""`  '-'
+</h1>
+<h3 align="center">I poke the keyboard for fun</h3><br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
