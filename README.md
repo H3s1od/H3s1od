@@ -1,7 +1,6 @@
 <h1 align="center"></h1>
-<h3 align="center">I poke the keyboard for fun</h3><br>
-$${\color{orange}\text{I poke the keyboard for fun}}$$
-
+<h3 align="center">I poke the keyboard for fun</h3>
+<h3 align="center">🩷 I poke the keyboard for fun</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
